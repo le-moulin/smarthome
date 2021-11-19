@@ -1,0 +1,9 @@
+input: .
+output: .retype
+url: # Add your website address here
+branding:
+  title: Le Moulin
+  label: SmartHome
+links:
+- text: Discord
+  link: https://discord.gg/5C6qhpA
